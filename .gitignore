@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # Project specific excludes
 #
@@ -53,3 +54,17 @@ nb-configuration.xml
 release.properties
 pom.xml.releaseBackup
 pom.xml.tag
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 10efc58c066e9088f63edcdaeb206aff15950f2c
